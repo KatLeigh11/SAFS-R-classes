@@ -12,17 +12,16 @@ attributes(PlantGrowth)
 
 # Calculate the mean and standard deviation for each treatment and the control
 
-meanz_c <- mean(subset(PlantGrowth, group == levels(PlantGrowth$group)[1])$weight)
-meanz_t1 <- mean(subset(PlantGrowth, group == levels(PlantGrowth$group)[2])$weight)
-meanz_t2 <- mean(subset(PlantGrowth, group == levels(PlantGrowth$group)[3])$weight)
+# old way: meanz_c <- mean(subset(PlantGrowth, group == levels(PlantGrowth$group)[1])$weight) etc.
+# df_mean_sd <- data.frame(group= levels(PlantGrowth$group),
+                         # mean= round(c(meanz_c, meanz_t1, meanz_t2),3),
+                         # stnd_dev= round(c(sdz_c, sdz_t1, sdz_t2),3))
 
-sdz_c <- sd(subset(PlantGrowth, group == levels(PlantGrowth$group)[1])$weight)
-sdz_t1 <- sd(subset(PlantGrowth, group == levels(PlantGrowth$group)[2])$weight)
-sdz_t2 <- sd(subset(PlantGrowth, group == levels(PlantGrowth$group)[3])$weight)
-
+all_at_once_mean <- tapply(PlantGrowth$weight, PlantGrowth$group, mean)
+all_at_once_sd <- tapply(PlantGrowth$weight, PlantGrowth$group, sd)
 df_mean_sd <- data.frame(group= levels(PlantGrowth$group),
-                         mean= round(c(meanz_c, meanz_t1, meanz_t2),3),
-                         stnd_dev= round(c(sdz_c, sdz_t1, sdz_t2),3))
+                         mean= round(all_at_once_mean,3),
+                         stnd_dev= round(all_at_once_sd,3))  # new way, much better
 
 # Create a factor for small and large based on the weights
 
