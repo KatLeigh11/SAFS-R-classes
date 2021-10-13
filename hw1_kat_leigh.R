@@ -46,7 +46,11 @@ fpass_max_min_wshead
 #==Question 2c ####
 # Calculate the total number of fish counted at Bonneville Dam (BON) in 2007.
 
-tot_fish_bon_07 <- sum(fishPassage[fishPassage$Dam=="BON" & fishPassage$Year=='2007',]$Chinook.Adult:fishPassage[fishPassage$Dam=="BON" & fishPassage$Year=='2007',]$Lamprey)
+# old way: tot_fish_bon_07 <- sum(fishPassage[fishPassage$Dam=="BON" & fishPassage$Year=='2007',]$Chinook.Adult:fishPassage[fishPassage$Dam=="BON" & fishPassage$Year=='2007',]$Lamprey)
+
+tot_fish_bon_07 <- apply(fishPassage[fishPassage$Dam=="BON" & fishPassage$Year=='2007',c(3:length(fishPassage))], 2, sum)
+tot_fish_bon_07 <- sum(tot_fish_bon_07) # new way, a bitter more readable
+tot_fish_bon_07
 
 #==Question 2d ####
 # Create a new data.frame called fishPassage1995BON that contains only observations from Bonneville Dam (BON) from 1995 on wards.
@@ -62,7 +66,9 @@ cohoPassage
 #==Question 2f ####
 # compute the mean of each of the variables in cohoPassage.
 
-mean_cohoP <- cbind(Av_Adlt= mean(cohoPassage[,1]), Av_Jck= mean(cohoPassage[,2]), Av_rat= mean(cohoPassage[,3]))
+# old version, not as concise: mean_cohoP <- cbind(Av_Adlt= mean(cohoPassage[,1]), Av_Jck= mean(cohoPassage[,2]), Av_rat= mean(cohoPassage[,3]))
+
+mean_cohoP <- apply(cohoPassage, 2, mean) # new version sooo much better!
 mean_cohoP
 
 #==Question 2g ####
