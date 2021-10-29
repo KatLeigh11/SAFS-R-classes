@@ -71,11 +71,57 @@ head(bocTrip, n=4)
 
 #=======In-class exercise 2
 #==Q1
+# Find the maximum difference in successive dates
 
+tripData <- tripData[order(tripData$Date),]
+biggest_gap <- max(diff(tripData$Date))
+
+# Find the row index of this biggest gap
+tmp <- diff(tripData$Date)
+row_inx_biggest_gap <- which(tmp ==biggest_gap)
+
+which.max(diff(tripData$Date)) # or this way too
+
+check_gap <- difftime(tripData[row_inx_biggest_gap+1,]$Date, tripData[row_inx_biggest_gap,]$Date)
+
+# Display rows of tripData immediately before (three rows) and after (three rows) the biggest gap
+tripData[c(row_inx_biggest_gap -3, row_inx_biggest_gap -2, row_inx_biggest_gap -1, row_inx_biggest_gap +3, row_inx_biggest_gap +2, row_inx_biggest_gap +1),]
+
+difftime(tripData[c(2:length(tripData$Date)),'Date'], tripData[c(1:length(tripData$Date)-1), 'Date'])
+
+  
 
 #==Q2
+
+# 1. Create a data frame by subsetting speciesData to include all rockfish species (scientific name Sebastes) using speciesCode to find the corresponding codes
+
+rockFishCode <- speciesCode[grep('Sebastes', speciesCode$Scientific),'SpeciesCode'] # search for matching string 'rockfish' in common column pf speciescode dataframe; return the indices of these matches; return all rows matching these indicies and only the speciescode column. 
+
+rockFish <- speciesData[speciesData$SpeciesCode %in% rockFishCode,] # subset the speciesdata dataframe to just include the rows where the speciescode matches those corresponding to the codes for 'Sebastes' found in the previous line.
+ 
+# 2. Provide a table() of the fates of rockfish by species code
+
+rockFishTable <- table(rockFish$SpeciesCode, as.character(rockFish$Fate)) # get frequency summaries for each value in the fate column for all the rockfish entries. But remove the blank value in the fate column by converting to character.
+
+# 3. Calculate the minimum and maximum length recorded for each rockfish species
+
+min_max_rockFish <- tapply(rockFish$Length, as.factor(rockFish$SpeciesCode), range, na.rm=TRUE) # apply the range function (calculates the min and max) across all the rockfish data, grouping by species code so that the ranges returned are per species.
+
+# Advanced (repeat but obtain a table of fate vs. common name)
+
+rockFish_common <- merge(rockFish, speciesCode, all=FALSE)
+
+rockFishTable_common <- table(rockFish_common$Common, as.character(rockFish$Fate)) # get frequency summaries for each value in the fate column for all the rockfish entries. But remove the blank value in the fate column by converting to character.
+
+# 3. Calculate the minimum and maximum length recorded for each rockfish species
+
+min_max_rockFish_common <- data.frame(ranges = tapply(rockFish_common$Length, droplevels(rockFish_common$Common), range))
+
+
+try <- min_max_rockFish_common[!is.na(unlist(min_max_rockFish_common)),]
 
 #==Q3
 
 
 #==Q4 advanced
+ 
