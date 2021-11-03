@@ -25,7 +25,13 @@ names(mack) <- c(names(mack)[1:9], "spawners.ices", "recruits.ices", "catch.ices
 
 ### TO DO!!! ###
 
-
+plot(x=mack$Year, y=mack$spawners.ices,
+     xlab = "Years", ylab= "Spawner Biomass (thousands of tons)", main = "Atlantic mackerel",
+     'l', lty=2, col='green',
+     ylim = c(0,3500))
+lines(x=mack$Year, y=mack$spawners.black, lty=2, col='black')
+lines(x=mack$Year, y=mack$spawners.nafo, lty=2, col= 'red')
+legend(x=1963, y=3700, legend = c('Black Sea', 'NAFO', 'ICES'), lty=2, col = c('black', 'red', 'green'), bty='n')
 
 #==Question 2a ####
 # Create a data frame named temperature which has 2 columns: the dates Jan 1 2010 through Jun 30 2010 and a randomly generated temperature for each day. Use rnorm to generate the temperatures with the means listed below and a standard deviation of 5, then round to the nearest whole number. Hint: you only have to call rnorm once if you first create a vector of means.

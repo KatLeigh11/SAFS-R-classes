@@ -1,0 +1,68 @@
+---
+output:
+  pdf_document: default
+  html_document:
+    code_folding: hide
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, fig.pos = 'h')
+```
+
+# Instructions
+
+# 1) Who am I?
+
+I'm Kat, a first-year Economics PhD student in the *School of Aquatic and Fisheries Sciences* at the University of Washington. I just came to Seattle from Santa Barbara, CA where I earned a Master Degree from the *Bren School of Environmental Science & Management* at the University of California Santa Barbara. Before I came to Bren, I worked a few different jobs, mostly in ocean science/conservation. Prior to working, I completed my Bachelor's of Science in Biology in the *College of Agriculture & Life Sciences* at Cornell University in New York.
+
+# 2) What do I study?
+
+My economic interests lie in the incentive structures that motivate the (in)actions we take in coastal communities and the seafood industry. I am particularly interested in the ability to shift these incentives by creating dynamic digital networks among coastal/seafood stakeholders. My research focuses on a business idea I have been pursuing for a few years which focuses on leveraging these networks to generate instantaneous economies of scale, and thus enable transactions to take place that otherwise would be impossible.
+
+### Keywords
+
+- economics
+- instantaneous economies of scale
+- incentive structures
+- networks
+- coastal communities
+
+
+# 3) What do I want from this course?
+
+1. greater fluency in using R, especially in terms of efficient code-writing
+2. comfort with for loops and other forms of iteration
+3. knowledge of useful packages specific to my field of study (economics and oceans/fisheries)
+
+
+# 4) Plot air quality data
+
+```{r Plotting Air Quality Dataset, fig.height = 4, fig.width = 5, fig.align = "center", fig.cap='Note: The data were obtained from the New York State Department of Conservation (ozone data) and the National Weather Service (meteorological data).'}
+
+plot(x=airquality$Temp, y=airquality$Ozone,
+     xlab = "Air Temperature (\u00B0F)", ylab = "Ozone Level (ppb)", main = "New York Ozone vs. Temperature, May-Sept. 1973")
+
+```
+
+Here's a peak at the data.
+
+```{r}
+## inspect the `airquality` data set
+str(airquality)
+```
+
+\vspace{0.25in}
+
+# 5) Say it with an equation
+
+```{r}
+model <- lm(airquality$Ozone~airquality$Temp + airquality$Month)
+sum_model <- summary(model)
+
+sum_model$coefficients[2]
+```
+It is possible to predict New York's Ozone Levels using a linear model based on the Temperature and Month at which an observation was made. The predictions that result from this model are not particularly accurate as the model depicted below yields an $R^2$ value of `r round(sum_model$r.squared,3)`.
+
+$Oz =$ `r round(sum_model$coefficients[2],2)`$T-$ `r -round(sum_model$coefficients[3],2)`$M -$ `r -round(sum_model$coefficients[1],2)`
+
+Note that above $Oz$ is the ozone level, $T$ is the air temperature, and $M$ is the month of the observation.

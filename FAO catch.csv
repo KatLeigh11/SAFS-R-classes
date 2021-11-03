@@ -1,0 +1,922 @@
+ScientificName,CommonName,Lmax,TL,Habitat,MeanCatch
+Clupeoids,"Herrings, sardines, anchovies",25,2.7,Pelagic,209171.5129
+Scombroids,"Tunas, bonitos, billfishes",376,4.2,Pelagic,118429.6078
+"Sharks, rays, chimaeras","Sharks, rays, skates, etc",300,4,DemMed,262698.7802
+Marine fishes not identified,Marine fishes,50,3.28,DemSm,6538479.621
+Homaridae/Paniluridae,"Lobsters, spiny-rock lobsters",50,2.6,Invert,320.0474138
+Miscellaneous marine crustaceans,Marine crustaceans,20,2.7,Invert,415779.0259
+Miscellaneous marine molluscs,Marine molluscs,13,2.27,Invert,514788
+Marine fishes not identified,Finfishes,30,3.23,DemSm,169962.3017
+Marine fishes not identified,Groundfishes,30,3.22,DemSm,19099.25862
+Marine fishes not identified,Pelagic fishes,50,3.35,DemSm,23809.95259
+"Shrimps, prawns",Natantian decapods,20,2.65,Invert,464181.1897
+"Sharks, rays, chimaeras",Various sharks,150,4,DemMed,6864.810345
+Elasmobranchii,Sharks and rays,729,4.05,DemMed,1185.469828
+Cephalopoda,Cephalopods,30,3.81,Invert,80263.15948
+Ascidiacea,Sea squirts,5,3,Invert,1328.487069
+Gastropoda,Gastropods,30,3.06,Invert,12152.73707
+Asteroidea,Sea stars,18,3.4,Invert,2099.633621
+Holothuroidea,Sea cucumbers,15,2,Invert,5919.25431
+Carchariniformes,Ground sharks,525,4.08,Pelagic,14518.51724
+Rajiformes,Skates and rays,205,3.61,DemMed,97775.68103
+Clupeiformes,Herrings,25,3.24,Pelagic,991.8793103
+Gadiformes,Cods,80,3.91,DemMed,18446.44828
+Perciformes,Perch-likes,50,3.53,DemSm,257373.9095
+Pleuronectiformes,Flatfishes,50,3.57,DemMed,341379.3362
+Teuthida,Squids,30,4.13,Invert,294727.3966
+Stomatopoda,Mantis shrimps,20,4.2,Invert,298.1594828
+Myxinidae,Hagfishes,80,3.45,DemMed,392.9482759
+Lamnidae,"Mackerel sharks, white sharks",375,4.51,Pelagic,57.67241379
+Carcharhinidae,Requiem sharks,525,4.24,Pelagic,31138.13362
+Sphyrnidae,"Hammerhead, bonnethead, scoophead shark",421,4.19,Pelagic,419.0086207
+Squatinidae,Angel sharks,215,4.13,Pelagic,531.1982759
+Rhinobatidae,Guitarfishes,139,3.7,DemLg,693.8577586
+Dasyatidae,Stingrays,40,3.38,DemLg,1493.551724
+Myliobatidae,Eagle and manta rays,200,3.36,DemLg,205.8189655
+Muraenidae,Moray eels,100,4.07,DemMed,144.8275862
+Salmonidae,Salmonids,140,3.3,DemLg,2308.366379
+Osmeridae,Smelts,32,3.47,Pelagic,2797.030172
+Ariidae,Sea catfishes,62,3.48,DemMed,168992.4698
+Synodontidae,Lizardfishes,56,4.3,DemMed,55587.43103
+Chlorophthalmidae,Greeneyes,29,3.62,DemSm,885.4482759
+Myctophidae,Lanternfishes,16,3.3,Pelagic,1229.724138
+Moridae,Codlings,29,3.87,DemSm,11963.32328
+Macrouridae,Grenadiers or rattails,82,3.88,DemMed,4652.103448
+Ophidiidae,Cusk-eels,148,3.67,DemMed,190.2586207
+Lophiidae,Goosefishes,150,4.46,DemMed,3903.836207
+Exocoetidae,Flyingfishes,25,3.57,Pelagic,43160.98707
+Belonidae,Needlefishes,122,4.38,Pelagic,489.7112069
+Atherinidae,Silversides,12,3.2,Pelagic,10875.04741
+Zeidae,Dories,79,4.49,DemMed,141.5517241
+Oreosomatidae,Oreos,40,3.69,Pelagic,11936.68966
+Scorpaenidae,Scorpionfishes or rockfishes,43,3.92,DemMed,51134.21552
+Triglidae,Searobins,25,3.74,DemSm,14819.46983
+Platycephalidae,Flatheads,87,3.9,DemMed,3084.280172
+Cottidae,Sculpins,50,3.81,DemSm,508.2327586
+Serranidae,"Sea basses, groupers, fairy basslets",190,3.98,DemSm,43949.78448
+Apogonidae,Cardinalfishes,12,3.54,DemSm,126.2413793
+Sillaginidae,Smelt-whitings,43,3.26,DemMed,14139.85776
+Malacanthidae,Tilefishes,102,3.62,DemMed,9614.017241
+Carangidae,Jacks and pompanos,164,4.05,Pelagic,208662.7069
+Menidae,Peruvian moonfish,30,3.45,Reef-associated,8827.327586
+Leiognathidae,"Slimys, slipmouths, or ponyfishes",12,3.24,DemSm,128583.3448
+Lutjanidae,Snappers,98,4.02,DemMed,51547.44828
+Nemipteridae,"Threadfin breams, Whiptail breams",35,3.51,DemSm,41240.32759
+Gerreidae,Mojarras,25,3.03,DemSm,9907.952586
+Haemulidae,Grunts,80,3.36,DemMed,47625.56034
+Lethrinidae,Emperors or scavengers,70,3.59,DemMed,40593.77155
+Sparidae,Porgies,164,3.31,DemMed,125023.875
+Sciaenidae,Drums or croakers,200,3.76,DemMed,308917.9871
+Mullidae,Goatfishes,55,3.46,DemMed,44831.69397
+Ephippidae,"Spadefishes, batfishes and scats",30,3.57,DemMed,52.16810345
+Latridae,Trumpeters,74,3.3,DemMed,585.7025862
+Mugilidae,Mullets,120,2.53,DemMed,134928.3578
+Labridae,Wrasses,75,3.46,DemSm,8868.043103
+Scaridae,Parrotfishes,41,2,DemMed,692.7672414
+Channichthyidae,Crocodile icefishes,59,3.34,DemMed,130.6594828
+Gobiidae,Gobies,15,3.11,DemSm,45819.2931
+Acanthuridae,"Surgeonfishes, tangs, unicornfishes",45,2.28,DemMed,4471.560345
+Gempylidae,Snake mackerels,246,4.21,DemMed,129.1551724
+Trichiuridae,Cutlassfishes,150,4.15,DemLg,90541.31034
+Scombridae,"Mackerels, tunas, bonitos",150,4.26,Pelagic,33052.59914
+Xiphiidae,Swordfish,455,4.49,Pelagic-oceanic,54302.20259
+Istiophoridae,Billfishes,367,4.48,Pelagic,10110.65517
+Centrolophidae,Medusafishes,115,3.65,Pelagic,371.1853448
+Stromateidae,Butterfishes,50,3.62,DemMed,56366.2069
+Bothidae,Lefteye flounders,20,3.77,DemSm,118.9568966
+Soleidae,Soles,20,3.15,DemSm,2975.034483
+Cynoglossidae,Tonguefishes,30,3.29,DemMed,20796.51724
+Balistidae,Triggerfishes,53,3.25,DemMed,14672.25862
+Tetraodontidae,Puffers,43,3.5,DemMed,2717.021552
+Engraulidae,Anchovies,21,3.25,Pelagic,155763.9181
+Caesionidae,Fusiliers,30,3.39,DemMed,27966.10776
+Triakidae,Houndsharks,154,3.82,Pelagic,74.68965517
+Ambassidae,Asiatic glassfishes,15,3.3,DemSm,1577.431034
+Scophthalmidae,Turbots,50,3.71,DemLg,800.8103448
+Monacanthidae,Filefishes,28,3,DemSm,508.2931034
+Sepiidae,Cuttlefishes,40,3.6,Invert,221908.1552
+Palaemonidae,Palaemonid shrimps,15,3.14,Invert,1384.706897
+Lithodidae,King crabs,17,2.82,Invert,31028.37931
+Palinuridae,Spiny lobsters,60,3.14,Invert,148.0775862
+Scyllaridae,Slipper lobsters,16,2.87,Invert,316.875
+Sergestidae,Sergestid shrimp,3,2.93,Invert,25482
+Aristeidae,Aristeid shrimps,26,3.47,Invert,562.0172414
+Penaeidae,Penaeid shrimps,34,3.31,Invert,6092.172414
+Squillidae,Mantis shrimps,20,3.5,Invert,24329.77586
+Mytilidae,Sea mussels,15,2,Invert,6685.814655
+Pectinidae,Scallops,25,2,Invert,18234.34052
+Cardiidae,Cockles,10,2,Invert,2022.862069
+Veneridae,Venus clams,14,2,Invert,5116.37069
+Brachyura,Marine crabs,30,2.6,Invert,120420.9871
+Paralichthys,American flounders,80,4.14,DemMed,4675.887931
+Raja,Skates,83,3.8,DemMed,45476.27586
+Lophius,Monkfishes,100,4.46,DemLg,25947.34914
+Trachinus,Weevers,44,3.95,DemSm,211.9008621
+Ammodytes,Sandlances,15,3.11,DemSm,495260.6207
+Salmo,Salmon and trout,89,4,Pelagic,683.6939655
+Scomber,Mackerels,52,3.65,Pelagic,8019.090517
+Mullus,Western goatfishes,40,3.29,DemMed,16740.94828
+Argentina,Argentines,20,3.35,Pelagic,16775.11207
+Siganus,Rabbitfishes,34,2.11,DemMed,16101.88362
+Macrourus,Grenadiers,82,3.58,DemLg,4989.991379
+Mustelus,Smooth-hounds,111,3.73,Pelagic,14441.06897
+Alosa,Shads,68,3.9,Pelagic,1695.288793
+Lutjanus,Snappers,98,4.02,DemMed,43057.49569
+Epinephelus,Groupers,190,3.84,DemMed,44836.75862
+Sphyraena,Barracudas,179,4.4,Pelagic,42399.32328
+Scomberoides,Queenfishes,100,4.47,Pelagic,10768.0431
+Scomberomorus,Seerfishes,205,4.35,Pelagic,151956.5862
+Prionotus,Sea robins,25,3.97,DemSm,1705.487069
+Centropomus,Snooks,115,3.92,DemMed,5736.293103
+Leiognathus,Slipmouths,12,3.22,DemSm,3632.948276
+Trachinotus,Pompanos,102,3.69,Pelagic,5487.043103
+Alopias,Thresher sharks,400,4.5,Pelagic,980.4913793
+Merluccius,Hakes,125,4.27,DemLg,361532.0603
+Trachurus,Jack mackerels,66,3.7,Pelagic,310484.3405
+Spicara,Picarels,25,3.58,DemSm,14493.48276
+Diplodus,Seabreams and porgies,49,2.97,DemMed,4554.823276
+Epigonus,Cardinalfishes,20,3.5,DemSm,599.8793103
+Scolopsis,Monocle breams,25,3.3,DemSm,1437.948276
+Dentex,Seabreams (Dentex spp),100,3.97,DemMed,12181.5
+Scyliorhinus,Lesser catsharks,100,3.86,Pelagic,109.362069
+Chirocentrus,Wolf herring,100,4.3,DemLg,36167.3319
+Pagrus,Seabreams (Pagrus spp),100,3.55,DemLg,4757.461207
+Priacanthus,Bigeyes,33,3.81,DemMed,39611.44397
+Seriola,Amberjacks,164,4.39,DemMed,58583.86207
+Gerres,Silver biddies,25,3.27,DemSm,5478.267241
+Beryx,Alfonsinos,60,3.97,DemLg,3167.426724
+Sebastes,Redfishes,87,3.79,DemMed,346666.1121
+Pagellus,Pandoras,70,3.44,DemMed,9452.931034
+Auxis,Frigate tuna,60,4.24,Pelagic,129565.0086
+Peprilus,Harvestfishes,28,3.78,DemSm,427.0689655
+Micropogonias,Western croakers,49,3.29,DemMed,2701.336207
+Tylosurus,Needlefishes,122,4.47,DemLg,6170.517241
+Salvelinus,Char,90,4.1,DemSm,72.90517241
+Microchirus,Iberian soles,20,3.28,DemSm,89.29310345
+Pristiophorus,Sawsharks,137,4.01,Pelagic,59.27586207
+Chrysoblephus,Seabreams,81,3.59,DemMed,210.3448276
+Nemipterus,Threadfin breams,29,3.72,DemSm,166622.6293
+Cantherhines,Filefishes,50,3.5,DemSm,121144.0862
+Muraenesox,Conger eels,180,3.99,DemLg,22854.15517
+Sardinella,Sardinella,35,2.77,Pelagic,483835.3836
+Harengula,Herring,20,3.37,Pelagic,1016.866379
+Seriolella,Barrelfishes,90,3.51,Pelagic,12699.98276
+Decapterus,Scads,37,3.63,Pelagic,502227.4871
+Genypterus,Cusk eels,140,4.2,DemLg,822.3663793
+Dicentrarchus,European/spotted seabass,100,3.94,Pelagic,1160.5
+Menticirrhus,Kingcroakers,41,3.67,DemMed,448.9008621
+Cynoscion,Weakfishes,90,4.21,DemLg,42882.18103
+Mycteroperca,Cat groupers,123,4.35,DemLg,892.362069
+Hydrolagus,Chimaeras,75,3.51,DemMed,270.0905172
+Lepidorhombus,Megrims,49,3.97,DemMed,9024.931034
+Rhombosolea,Flounders,50,3.1,DemMed,686.8922414
+Pseudotolithus,Croakers,100,3.79,DemMed,28531.90086
+Gymnocranius,Large-eye breams,50,3.4,DemMed,412.1896552
+Rastrelliger,Indo-Pacific mackerels,33,3.1,Pelagic,155265.3362
+Austroglossus,Southern soles,62,3.76,DemMed,443.3534483
+Anarhichas,Wolffish,148,3.35,DemLg,10680.75
+Coregonus,Whitefishes,82,3.3,DemMed,1196.49569
+Stolephorus,Indo-Pacific anchovies,15,3.45,Pelagic,180990.5431
+Hemiramphus,Halfbeaks,45,3.05,Pelagic,26257.78879
+Phycis,"Gunnels, forkbeards",90,4,DemMed,293.9741379
+Trematomus,Antarctic rockcods,23,3.29,DemMed,791.0474138
+Pampus,Silver pomfrets,60,3.42,DemMed,86117.7069
+Loligo,Common squids,25,3.99,Invert,120157.6638
+Crassostrea,Cupped oysters,25,2,Invert,4340.021552
+Eledone,Horned and musky octopuses,31,3.68,Invert,2341.62069
+Haliotis,Abalones,30,2,Invert,6978.258621
+Littorina,Periwinkles,2,2,Invert,2333.202586
+Murex,Murex shells,15,2,Invert,730.8793103
+Strombus,Stromboid conchs,23,2,Invert,13539.81034
+Turbo,Turbo snails,7,2.05,Invert,250.8
+Chionoecetes,Pacific snow crabs,20,2.3,Invert,54202.32328
+Geryon,Deepsea crabs,18,2.6,Invert,3479.862069
+Portunus,Swims crabs,20,3.4,Invert,1746.073276
+Palinurus,Spiny lobsters,50,2.7,Invert,1758.008621
+Panulirus,Tropical spiny lobsters,40,2.6,Invert,8087.931034
+Haliporoides,Knife shrimps,18,2.6,Invert,327.4913793
+Metapenaeus,Metapenaeus shrimps,17,2.7,Invert,30655.98276
+Pandalus,Pandalus shrimps,16,2.6,Invert,10254.39224
+Parapenaeopsis,Shrimps,17,2.72,Invert,8403.396552
+Penaeus,Penaeus shrimps,34,2.7,Invert,214351.2284
+Busycon,Whelks,15,3,Invert,2427.038793
+Rapana,Sea snails,15,3,Invert,849.2241379
+Modiolus,Horse mussels,13,2,Invert,6964.818966
+Anadara,Anadara clams,6,2,Invert,500.6034483
+Arca,Ark clams,6,2,Invert,18934.41379
+Donax,Donax clams,4,2,Invert,201.1896552
+Meretrix,Hard clams,5,2,Invert,4640.275862
+Mulinia,Taquilla clams,6,2,Invert,901.6724138
+Paphia,Short neck clams,5,2,Invert,29382.84483
+Solen,Razor clams,15,2,Invert,672.2758621
+Strongylocentrotus,Sea urchins,8,2.1,Invert,29169.25
+Cymbium,Gondolas,5,2,Invert,1434.965517
+Charybdis,Indo-Pacific swimming crabs,30,2.7,Invert,5057.551724
+Engraulis ringens,Anchoveta,20,2.7,Pelagic,5054140.052
+Coryphaena hippurus,Common dolphinfish,172,4.37,Pelagic,27481.56466
+Epinephelus guttatus,Red hind,76,3.88,Reef-associated,101.7112069
+Epinephelus morio,Red grouper,102,3.67,DemLg,4514.603448
+Epinephelus striatus,Nassau grouper,100,4.14,DemLg,445.25
+Argentina sphyraena,Argentine,35,3.62,Pelagic,233.5862069
+Clupea harengus,Atlantic herring,40,3.23,Pelagic,2140640.724
+Gadiculus argenteus thori,Silvery pout,15,3.51,Pelagic-oceanic,82.37931034
+Glyptocephalus cynoglossus,Witch,60,3.14,DemMed,23564.94828
+Lepidorhombus whiffiagonis,Megrim,49,3.58,DemMed,10570.57759
+Merlangius merlangus,Whiting,57,4.29,DemMed,145328.7931
+Merluccius merluccius,European hake,125,4.42,DemLg,115418.556
+Micromesistius poutassou,Blue whiting,41,4.01,DemMed,559505.0647
+Molva molva,Ling,164,3,DemLg,47584.49569
+Pollachius pollachius,Pollock,107,4.15,DemLg,10246.88362
+Aspitrigla cuculus,East Atlantic red gurnard,50,3.85,Demersal,855.8017241
+Belone belone,Garpike,89,4.21,Pelagic,4777.827586
+Brosme brosme,Tusk,98,4,DemLg,35079.88793
+Capros aper,Boarfish,30,3.14,DemMed,397.4482759
+Cyclopterus lumpus,Lumpsucker,49,3.89,DemMed,8046.090517
+Dicentrarchus labrax,European seabass,100,3.8,DemLg,4532.310345
+Engraulis encrasicolus,European anchovy,20,3.11,Pelagic,446785.7931
+Chelidonichthys gurnardus,Grey gurnard,53,3.57,DemMed,4162.461207
+Gadus morhua,Atlantic cod,186,4.42,DemLg,2097053.457
+Caranx hippos,Crevalle jack,89,3.5,Pelagic,8847.931034
+Helicolenus dactylopterus,Blackbelly rosefish,37,3.81,DemMed,2689.659483
+Istiophorus platypterus,Indo-Pacific sailfish,279,4.5,Pelagic,9881.568966
+Istiophorus albicans,Atlantic sailfish,258,4.4,Pelagic,2206.534483
+Lamna nasus,Porbeagle,277,4.21,Pelagic,2020.112069
+Acanthocybium solandri,Wahoo,195,4.4,Pelagic,1429.366379
+Cetorhinus maximus,Basking shark,729,3.2,Pelagic,4421.676724
+Euthynnus affinis,Kawakawa,93,4.47,Pelagic,108071.1078
+Euthynnus alletteratus,Little tunny,100,4.4,Pelagic,11103.56897
+Euthynnus lineatus,Black skipjack,78,3.57,Pelagic,474
+Alosa pontica,Pontic shad,39,3.94,Pelagic,1123.935345
+Gymnosarda unicolor,Dogtooth tuna,275,4.5,DemLg,253.9482759
+Katsuwonus pelamis,Skipjack tuna,108,4.35,Pelagic,933785.5
+Orcynopsis unicolor,Plain bonito,121,4.5,Pelagic,725.6637931
+Rastrelliger brachysoma,Short mackerel,32,2.72,Pelagic,127644
+Rastrelliger kanagurta,Indian mackerel,33,3.19,Pelagic,156988.431
+Sarda chiliensis,Eastern Pacific bonito,90,4.5,Pelagic,42638.68534
+Sarda orientalis,Striped bonito,95,4.18,Pelagic,122.862069
+Sarda sarda,Atlantic bonito,90,4.2,Pelagic,31290.96552
+Scomber australasicus,Blue mackerel,37,4.03,Pelagic,3820.918103
+Scomber japonicus,Chub mackerel,52,3.09,Pelagic,1479144.168
+Scomber scombrus,Atlantic mackerel,46,3.18,Pelagic,569220.1336
+Scomberomorus brasiliensis,Serra Spanish mackerel,116,3.31,Pelagic,4834.150862
+Scomberomorus cavalla,King mackerel,151,4.5,DemLg,8919.491379
+Scomberomorus commerson,Narrow-barred Spanish mackerel,205,4.5,Pelagic,94764.39655
+Scomberomorus guttatus,Indo-Pacific king mackerel,71,4.28,Pelagic,18504.73707
+Scomberomorus lineolatus,Streaked seerfish,74,4.5,Pelagic,77.59051724
+Scomberomorus maculatus,Spanish mackerel,77,4.5,Pelagic,8497.478448
+Scomberomorus niphonius,Japanese Spanish mackerel,93,4.5,Pelagic,25646.63793
+Scomberomorus regalis,Cero,150,4.48,DemLg,423.9525862
+Scomberomorus sierra,Pacific sierra,90,4.5,Pelagic,4523.577586
+Somniosus microcephalus,Greenland shark,606,4.22,Pelagic,52.84051724
+Squalus acanthias,Piked dogfish,130,4.3,Pelagic,35339.96983
+Rhinobatos percellens,Chola guitarfish,82,3.61,DemLg,795.8965517
+Scomberomorus tritor,West African Spanish mackerel,90,4.26,Pelagic,1714.314655
+Thunnus alalunga,Albacore,140,4.31,Pelagic,191076.5862
+Thunnus albacares,Yellowfin tuna,239,4.34,Pelagic,644438.9052
+Thunnus atlanticus,Blackfin tuna,93,4.13,Pelagic,1970.741379
+Thunnus maccoyii,Southern bluefin tuna,228,3.87,Pelagic,28750.2931
+Thunnus obesus,Bigeye tuna,219,4.5,Pelagic,228501.7802
+Thunnus thynnus,Northern bluefin tuna,376,4.43,Pelagic,29178.875
+Thunnus tonggol,Longtail tuna,126,4.06,Pelagic,76507.93966
+Rhinobatos planiceps,Pacific guitarfish,139,3.56,DemMed,820.3793103
+Lutjanus guttatus,Spotted rose snapper,80,3.94,Reef-associated,53.55172414
+Lutjanus malabaricus,Malabar blood snapper,100,4.46,DemLg,96.24137931
+Callorhinchus capensis,Cape elephantfish,61,3.45,DemLg,247.7068966
+Lutjanus peru,Pacific red snapper,95,4.02,Reef-associated,209.3965517
+Lutjanus purpureus,Southern red snapper,82,3.58,DemLg,7659.827586
+Elops saurus,Ladyfish,82,3.95,Pelagic,426.4956897
+Lutjanus synagris,Lane snapper,49,3.82,DemMed,2609.487069
+Ocyurus chrysurus,Yellowtail snapper,85,3.99,DemMed,4433.237069
+Boops boops,Bogue,30,3,DemMed,25123.53017
+Sarpa salpa,Salema,42,2.01,DemMed,1348.232759
+Rhomboplites aurorubens,Vermilion snapper,60,4.33,DemMed,306.862069
+Makaira nigricans,Atlantic blue marlin,346,4.38,Pelagic,26336.22845
+Makaira indica,Black marlin,367,4.46,Pelagic,3871.689655
+Tetrapturus albidus,Atlantic white marlin,246,4.48,Pelagic,1210.762931
+Tetrapturus pfluegeri,Longbill spearfish,205,4.28,Pelagic,112.7284483
+Tetrapturus audax,Striped marlin,287,4.58,Pelagic,14297.02155
+Megalops cyprinoides,Indo-Pacific tarpon,123,3.3,Pelagic,542.1077586
+Albula vulpes,Bonefish,85,3.67,DemLg,313.2068966
+Alepocephalus bairdii,Bairds smooth-head,100,3.44,DemLg,350.5043103
+Coregonus albula,Vendace,37,3.02,Pelagic,1348.948276
+Coregonus lavaretus,Common whitefish,49,3.08,DemMed,2277.271552
+Salmo salar,Atlantic salmon,123,4.43,DemLg,8504.241379
+Salmo trutta,Sea trout,89,3.16,Pelagic,657.4439655
+Oncorhynchus mykiss,Rainbow trout,108,3.39,DemLg,83.98275862
+Oncorhynchus gorbuscha,Pink salmon,62,4.19,DemMed,230900.9224
+Oncorhynchus keta,Chum salmon,93,3.47,DemLg,186839.5345
+Oncorhynchus masou,Cherry salmon,49,3.6,DemMed,1454.982759
+Oncorhynchus nerka,Sockeye salmon,76,3.73,Pelagic,104600.8621
+Oncorhynchus tshawytscha,Chinook salmon,121,4.4,DemLg,18915.07328
+Oncorhynchus kisutch,Coho salmon,88,4.25,DemLg,31613.87931
+Salvelinus alpinus,Charr,79,4.26,DemLg,70.15086207
+Mallotus villosus,Capelin,16,3.15,Pelagic,1187333.504
+Osmerus mordax,Atlantic rainbow smelt,29,3,Pelagic,1618.047414
+Thaleichthys pacificus,Eulachon,25,3.24,Pelagic,555.8318966
+Lampanyctodes hectoris,Hectors lanternfish,6,3.17,Pelagic,2905.806034
+Harpadon nehereus,Bombay duck,33,4.2,DemMed,122158.2759
+Lutjanus johnii,Johns snapper,97,4.18,DemMed,339.0689655
+Lutjanus gibbus,Humpback red snapper,39.7,3.62,DemMed,77.5
+Muraenesox cinereus,Daggertooth pike conger,180,4.07,DemLg,83650.11207
+Conger orbignyanus,Argentine conger,82,3.98,DemLg,293.9267241
+Conger conger,European conger,246,4.29,DemLg,12995.33621
+Conger myriaster,Whitespotted conger,82,3.98,DemLg,9699.206897
+Cololabis saira,Pacific saury,30,3.71,Pelagic,334303.7586
+Hyporhamphus sajori,Japanese halfbeak,697,3.4,Pelagic,968.2284483
+Salilota australis,Tadpole codling,41,3.33,DemMed,3738.521552
+Gadus macrocephalus,Pacific cod,93,4.01,DemLg,235691.7586
+Gadus ogac,Greenland cod,57,3.59,DemMed,1596.461207
+Lota lota,Burbot,152,4.03,Demersal,309.2068966
+Urophycis brasiliensis,Brazilian codling,33,3.79,DemMed,1764.646552
+Urophycis chuss,Red hake,41,3.6,DemMed,12981.59052
+Urophycis tenuis,White hake,98,4.2,DemLg,15161.78879
+Eleginus navaga,Navaga,34,4.24,DemMed,2577.534483
+Eleginus gracilis,Saffron cod,45,4.12,DemMed,24843.24138
+Microgadus tomcod,Atlantic tomcod,31,3.05,DemMed,239.2068966
+Theragra chalcogramma,Alaska pollock,75,3.45,DemLg,3138671.453
+Boreogadus saida,Polar cod,33,3.1,DemMed,31790.5431
+Micromesistius australis,Southern blue whiting,74,3.79,DemLg,79763.21552
+Merluccius senegalensis,Senegalese hake,66,4.5,DemMed,17834.52155
+Merluccius australis,Southern hake,103,4.45,DemLg,22772.07759
+Merluccius bilinearis,Silver hake,62,4.26,DemMed,99617.16379
+Merluccius gayi gayi,South Pacific hake,71,4.26,DemMed,124848.1078
+Merluccius hubbsi,Argentine hake,78,4.08,DemLg,275790.6724
+Merluccius productus,North Pacific hake,75,4.35,DemLg,154330.1897
+Merluccius polli,Benguela hake,66,4.5,DemMed,2738.267241
+Macruronus magellanicus,Patagonian grenadier,90,3.98,DemLg,94511.34052
+Macrourus berglax,Onion-eye grenadier,82,3.62,DemLg,994.6206897
+Coryphaenoides rupestris,Roundnose grenadier,82,3.54,Pelagic,18632.24569
+Macroramphosus scolopax,Longspine snipefish,16,3.47,DemSm,3743.896552
+Hoplostethus atlanticus,Orange roughy,57,3.98,Pelagic,21296.24569
+Joturus pichardi,Bobo mullet,50,2.37,Pelagic,482.8534483
+Menidia menidia,Atlantic silverside,12,3.18,Pelagic,149.0301724
+Eleutheronema tetradactylum,Fourfinger threadfin,164,4.35,DemLg,4853.931034
+Galeoides decadactylus,Lesser African threadfin,37,3.57,DemMed,8197.327586
+Pentanemus quinquarius,Royal threadfin,29,3.56,DemMed,1186.090517
+Centropomus undecimalis,Common snook,115,4.41,DemLg,3538.568966
+Lates calcarifer,Barramundi,162,4.35,DemLg,26013.93103
+Polyprion americanus,Wreckfish,172,3.83,DemLg,516.9655172
+Polyprion oxygeneios,Hapuka,123,4.45,DemLg,1470.068966
+Acanthistius brasilianus,Sea bass,49,4.01,DemMed,5163.827586
+Paralabrax humeralis,Peruvian rock seabass,41,4.14,DemMed,3451.62069
+Morone saxatilis,Striped sea-bass,164,4.34,DemLg,2686.810345
+Priacanthus macracanthus,Red bigeye,29,3.8,DemSm,5724.206897
+Synagrops japonicus,Japanese splitfin,35,3,DemMed,1530.275862
+Centropristis striata,Black seabass,49,3.98,DemMed,2749.396552
+Lopholatilus chamaeleonticeps,Great northern tilefish,102,3.45,DemLg,1354.594828
+Lactarius lactarius,False trevally,33,3.97,Pelagic,7086.887931
+Pomatomus saltator,Bluefish,98,4.5,Pelagic,26255.37931
+Trachurus japonicus,Japanese jack mackerel,30,3.4,DemMed,265064.0345
+Trachurus murphyi,Inca scad,57,3.49,Pelagic,1338275.556
+Trachurus symmetricus,Pacific jack mackerel,66,3.56,Pelagic,18123.75
+Trachurus lathami,Rough scad,33,3.99,DemMed,538.7543103
+Trachurus trecae,Cunene horse mackerel,33,3.3,DemMed,109207.0776
+Trachurus declivis,Greenback horse mackerel,45,3.61,DemMed,13212.91379
+Decapterus russelli,Indian scad,37,3.69,Pelagic,72271.2069
+Selene setapinnis,Atlantic moonfish,49,3.72,DemMed,1887.12931
+Selene dorsalis,African moonfish,31,4.08,DemMed,2360.060345
+Trachinotus carolinus,Florida pompano,52,3.5,DemMed,245.9568966
+Seriola lalandi,Yellowtail amberjack,164,4.07,DemLg,821.362069
+Megalaspis cordyla,Torpedo scad,69,4.39,Pelagic,36029.2069
+Chloroscombrus chrysurus,Atlantic bumper,53,3.21,Pelagic,6644.801724
+Parona signata,Parona leatherjacket,49,3.4,DemMed,875.137931
+Selar crumenophthalmus,Bigeye scad,60,3.89,Pelagic,50209.48276
+Selaroides leptolepis,Yellowstripe scad,16,3.53,Pelagic,77112.87931
+Brama brama,Atlantic pomfret,82,4.08,Pelagic,7209.413793
+Arripis georgianus,Australian ruff,57,4.31,Pelagic,1100.827586
+Dicentrarchus punctatus,Spotted seabass,57,3.94,Pelagic,405.75
+Emmelichthys nitidus,Redbait,33,3.61,DemMed,977.6724138
+Nemipterus virgatus,Golden threadfin bream,35,3.99,DemMed,4874.896552
+Isacia conceptionis,Cabinza grunt,49,2.91,DemMed,2176.741379
+Plectorhinchus mediterraneus,Rubberlip grunt,80,3.49,DemMed,1751.646552
+Pomadasys argenteus,Silver grunt,43,3.42,DemMed,978.1077586
+Brachydeuterus auritus,Bigeye grunt,25,3.03,DemSm,19288.02155
+Conodon nobilis,Barred grunt,28,3.05,DemMed,1676.241379
+Cynoscion analis,Peruvian weakfish,37,4.15,DemMed,3638.12069
+Cynoscion nebulosus,Spotted weakfish,75,3.98,DemLg,3351.573276
+Cynoscion regalis,Gray weakfish,75,3.77,DemLg,4663
+Cynoscion striatus,South American striped weakfish,49,3.9,DemMed,13425.58621
+Micropogonias undulatus,Atlantic croaker,41,3.31,DemMed,7713.258621
+Menticirrhus littoralis,Gulf kingcroaker,38,3.29,DemMed,1307.689655
+Elagatis bipinnulata,Rainbow runner,148,3.59,Pelagic,7873.547414
+Umbrina canosai,Argentine croaker,30,3.16,DemMed,7825.758621
+Larimichthys polyactis,Yellow croaker,40,3.57,DemMed,121018.1207
+Macrodon ancylodon,King weakfish,37,4.01,DemMed,1645.577586
+Argyrosomus regius,Meagre,200,4.05,DemLg,3100.810345
+Argyrosomus hololepidotus,Southern meagre,164,3.82,DemLg,2117.646552
+Atractoscion aequidens,Geelbeck croaker,107,3.89,DemLg,252.9051724
+Genyonemus lineatus,White croaker,34,3.43,DemMed,217.6206897
+Pteroscion peli,Boe drum,26,3.56,DemMed,1173.564655
+Paralonchurus peruanus,Peruvian banded croaker,37,2.49,DemMed,4350.310345
+Pogonias cromis,Black drum,139,3.89,DemLg,2339.625
+Epinephelus aeneus,White grouper,98,4.02,DemLg,852.7974138
+Nibea mitsukurii,Nibe croaker,75,3.5,DemMed,2057.982759
+Larimichthys croceus,Large yellow croaker,66,3.72,DemMed,94937.81034
+Leiostomus xanthurus,Spot croaker,30,3.94,DemMed,3655.827586
+Pseudotolithus senegalensis,Cassava croaker,82,3.84,DemLg,1016.568966
+Pseudotolithus elongatus,Bobo croaker,37,4.06,DemMed,5464.24569
+Pennahia argentata,White croaker,23,3.47,DemSm,16223.10345
+Pagellus bellottii bellottii,Red pandora,42,3.6,DemMed,6437.487069
+Dentex macrophthalmus,Large-eye dentex,53,3.43,DemMed,13133.94828
+Dentex dentex,Common dentex,82,4.5,DemLg,3748.038793
+Dentex angolensis,Angola dentex,29,3.52,DemMed,966.3275862
+Archosargus probatocephalus,Sheepshead seabream,75,3.53,DemLg,792.9525862
+Argyrops spinifer,King soldierbream,54,4.47,DemMed,1784.137931
+Argyrozona argyrozona,Carpenter seabream,74,3.05,DemLg,290.612069
+Pterogymnus laniarius,Panga seabream,33,3.68,DemMed,3438.362069
+Rhabdosargus globiceps,White stumpnose,53,2.87,DemMed,70.31896552
+Stenotomus chrysops,Scup,38,3.9,DemMed,9425.284483
+Pseudupeneus prayensis,West African goatfish,55,3.24,DemMed,2283.103448
+Tautoga onitis,Tautog,75,3.33,DemLg,160.5517241
+Nemadactylus bergi,White morwong,40,3.18,DemMed,5608.344828
+Cheilodactylus variegatus,Peruvian morwong,33,2.89,DemMed,192.0517241
+Arctoscopus japonicus,Sailfin sandfish,18,3.41,DemSm,20221.37931
+Parapercis colias,Blue cod,37,3.87,DemMed,1383.689655
+Percophis brasiliensis,Brazilian flathead,44,3.48,DemMed,3959.49569
+Eleginops maclovinus,Patagonian blennie,40,3,DemMed,1361.267241
+Dissostichus eleginoides,Patagonian toothfish,176,3.96,DemLg,11306.60776
+Notothenia rossii,Marbled rockcod,75,3.61,DemLg,17256.18103
+Pleuragramma antarcticum,Antarctic silverfish,20,3,Pelagic,93.32758621
+Chaenocephalus aceratus,Blackfin icefish,59,3.47,DemMed,217.7025862
+Champsocephalus gunnari,Mackerel icefish,54,3.23,Pelagic,18989.94828
+Pseudochaenichthys georgianus,South Georgia icefish,49,3.33,DemMed,446.2974138
+Chaenodraco wilsoni,Spiny icefish,35,3.32,DemMed,417.3232759
+Zoarces viviparus,Viviparous blenny,43,3.47,DemMed,1941.672414
+Zoarces americanus,Ocean pout,90,3.42,DemLg,1009.706897
+Trisopterus minutus,Poor cod,33,3.6,DemMed,697.0301724
+Genypterus blacodes,Pink cusk-eel,131,4.34,DemLg,21717.98707
+Genypterus chilensis,Red cusk-eel,139,3.65,DemLg,1571.965517
+Genypterus maculatus,Black cusk-eel,139,3.48,DemMed,1326.827586
+Genypterus capensis,Kingklip,148,4.41,DemLg,6855.198276
+Brotula barbata,Bearded brotula,75,3.41,DemLg,516.2413793
+Ammodytes personatus,Pacific sandeel,15,3,DemSm,129197.5517
+Hypoptychus dybowskii,Korean sandeel,7,3.18,DemSm,4939.241379
+Thyrsites atun,Snoek,200,3.74,DemLg,34439.14655
+Pampus argenteus,Silver pomfret,60,3.18,DemMed,21555.58621
+Peprilus triacanthus,American butterfish,25,3.97,DemSm,1768.181034
+Hyperoglyphe antarctica,Antarctic butterfish,115,3.95,DemLg,949.3663793
+Psenopsis anomala,Melon seed,25,3.45,DemSm,10063.27586
+Sebastes marinus,Ocean perch,87,4.08,DemLg,12695.53879
+Sebastes entomelas,Widow rockfish,49,3.68,Pelagic,547.2068966
+Sebastes flavidus,Yellowtail rockfish,54,4.11,DemMed,474.0862069
+Sebastes alutus,Pacific ocean perch,42,3.5,DemMed,71847.83621
+Sebastes mentella,Deepwater redfish,33,3.65,Pelagic,16384.52155
+Chelidonichthys kumu,Bluefin gurnard,49,3.44,DemMed,14001.55172
+Pterygotrigla polyommata,Latchet,51,3.29,DemMed,113.1336207
+Ophiodon elongatus,Lingcod,125,4.32,DemLg,5319.224138
+Pleurogrammus azonus,Okhostk atka mackerel,60,3.58,DemMed,186232.2371
+Anoplopoma fimbria,Sablefish,98,3.83,DemLg,25691.65948
+Psettodes erumei,Indian spiny turbot,52,4.39,DemMed,7155.62931
+Hippoglossus stenolepis,Pacific halibut,115,4.13,DemLg,33051.78879
+Reinhardtius hippoglossoides,Greenland halibut,66,4.48,DemMed,86449.38793
+Atheresthes stomias,Arrowtooth flounder,69,4.26,DemMed,5178.508621
+Reinhardtius evermanni,Kamchatka flounder,100,4.45,DemLg,17648.60345
+Hippoglossoides elassodon,Flathead sole,50,3.64,DemMed,9967.62069
+Limanda aspera,Yellowfin sole,39,3.24,DemMed,64899.125
+Limanda ferruginea,Yellowtail flounder,64,3.22,DemMed,27233.28017
+Pseudopleuronectes americanus,Winter flounder,52,2.83,DemMed,11881.19828
+Solea solea,Common sole,70,3.17,DemMed,38855.90948
+Dicologlossa cuneata,Wedge sole,30,3.32,DemMed,991.1422414
+Austroglossus microlepis,West coast sole,62,3.48,DemMed,1571.672414
+Austroglossus pectoralis,Mud sole,49,4.03,DemMed,525.7758621
+Scophthalmus rhombus,Brill,75,3.79,DemMed,1934.030172
+Scophthalmus aquosus,Windowpane,37,3.55,DemMed,717
+Stephanolepis cirrhifer,Thread-sail filefish,20,2.84,DemSm,55815.18966
+Lophius americanus,American angler,98,4.49,DemLg,9902.637931
+Cetengraulis edentulus,Atlantic anchoveta,17,2.11,Pelagic,1438.482759
+Cetengraulis mysticetus,Pacific anchoveta,18,2.47,Pelagic,83861.2069
+Lepidopus caudatus,Silver scabbardfish,205,3.85,DemLg,11389.98707
+Aphanopus carbo,Black scabbardfish,110,4.5,DemLg,3879.948276
+Centrophorus granulosus,Gulper shark,123,4.13,Pelagic,313.25
+Centrophorus squamosus,Leafscale gulper shark,131,4.22,Pelagic,551.3017241
+Centroscymnus coelolepis,Portuguese dogfish,120,4.2,Pelagic,641.0043103
+Dalatias licha,Kitefin shark,144,4.15,Pelagic,129.1551724
+Lichia amia,Leerfish,164,4.5,Pelagic,1864.060345
+Limanda limanda,Dab,40,3.29,DemMed,14663.0431
+Lithognathus mormyrus,Striped seabream,45,3.38,DemMed,884.8189655
+Lophius piscatorius,Angler,200,4.49,DemLg,15644.61638
+Squatina argentina,Argentine angelshark,150,4.11,Pelagic,1271
+Isurus oxyrinchus,Shortfin mako,498,4.28,Pelagic,1014.642241
+Maurolicus muelleri,Pearlsides,6,3.01,Pelagic,1445.068966
+Mugil cephalus,Flathead mullet,120,2.13,DemLg,44548.7069
+Mullus barbatus,Red mullet,30,3.33,DemMed,3733.793103
+Scyliorhinus canicula,Smallspotted catshark,100,3.58,Pelagic,2988.775862
+Oblada melanura,Saddled seabream,25,3.03,DemSm,610.9525862
+Scyliorhinus stellaris,Nursehound,130,4.03,Pelagic,138.2456897
+Carcharhinus falciformis,Silky shark,238,4.2,Pelagic,9310.172414
+Carcharhinus sorrah,Spottail shark,160,4.15,Pelagic,2012.172414
+Pagellus acarne,Axillary seabream,36,3.48,DemMed,902.5431034
+Pagellus bogaraveo,Blackspot seabream,70,3.66,DemMed,6487.344828
+Pagellus erythrinus,Common pandora,60,3.52,DemMed,7892.87069
+Prionace glauca,Blue shark,289,4.24,Pelagic,5370.616379
+Sphyrna lewini,Scalloped hammerhead,294,4.08,Pelagic,62.50431034
+Dasyatis akajei,Red stingray,40,3.84,DemLg,9059.862069
+Atrobucca nibe,Longfin kob,45,3.03,DemMed,3903.431034
+Platycephalus indicus,Bartail flathead,87,3.6,DemLg,2051.017241
+Pseudocaranx dentex,White trevally,100,3.24,DemLg,3352.034483
+Seriola dumerili,Greater amberjack,156,4.5,DemLg,555.1293103
+Trisopterus esmarkii,Norway pout,29,3.22,DemMed,245885.3276
+Sardinella aurita,Round sardinella,25,3.21,Pelagic,250451.9914
+Ruvettus pretiosus,Oilfish,246,4.08,DemLg,2980.883621
+Sardinella maderensis,Madeiran sardinella,35,3.2,Pelagic,47560.68103
+Saurida undosquamis,Brushtooth lizardfish,50,4.48,DemMed,398.9827586
+Hemiramphus brasiliensis,Ballyhoo,45,2.48,Pelagic,849.3275862
+Megalops atlanticus,Tarpon,205,4.5,Pelagic,2053.590517
+Scomberesox saurus,Atlantic saury,41,3.64,Pelagic,1251.521552
+Mugil curema,White mullet,90,2.01,Reef-associated,196.4655172
+Mugil liza,Liza,63,2,DemMed,1934.37069
+Sparus auratus,Gilthead seabream,70,3.26,DemMed,3944.482759
+Sphoeroides maculatus,Northern puffer,30,4.04,DemMed,538.6767241
+Sciaenops ocellatus,Red drum,127,4.07,DemLg,622.4353448
+Stromateus fiatola,Blue butterfish,50,3.91,DemMed,1610.74569
+Sphyraena barracuda,Great barracuda,178.9,4.5,Pelagic,7480.310345
+Trachurus mediterraneus,Mediterranean horse mackerel,56,3.47,Pelagic,30295.23276
+Trachurus picturatus,Blue jack mackerel,49,3.32,DemMed,590.2241379
+Trichiurus lepturus,Largehead hairtail,192,4.45,DemLg,744418.5043
+Ariomma indica,Indian ariomma,25,3.4,DemSm,755.3922414
+Umbrina cirrosa,Shi drum,57,3.39,DemMed,462.9827586
+Mullus surmuletus,Striped red mullet,40,3.35,DemMed,6667.271552
+Osmerus eperlanus,European smelt,37,3.06,Pelagic,4701.228448
+Pegusa lascaris,Sand sole,40,3.2,DemMed,103.5948276
+Paralichthys dentatus,Summer flounder,77,4.49,DemMed,7164.887931
+Phycis blennoides,Greater forkbeard,90,3.49,DemLg,2365.133621
+Platichthys flesus,Flounder,43,3.53,DemMed,11434.85776
+Pleuronectes platessus,European plaice,100,3.26,DemLg,143591.2198
+Pollachius virens,Saithe,107,4.38,DemLg,418664.2586
+Scophthalmus maximus,Turbot,100,3.05,DemLg,8609.443966
+Sardina pilchardus,European pilchard,25,3.1,Pelagic,840422.2586
+Paralichthys olivaceus,Bastard halibut,80,4.35,DemLg,10562.32759
+Spondyliosoma cantharus,Black seabream,60,3.34,DemMed,3381.771552
+Sprattus sprattus,European sprat,16,3,Pelagic,386763.5733
+Trachinus draco,Greater weever,45,3,DemMed,475.4008621
+Trachurus trachurus,Atlantic horse mackerel,62,3.64,Pelagic,195728.0603
+Chelidonichthys lucerna,Tub gurnard,62,3.65,DemMed,401.2931034
+Trisopterus luscus,Pouting,41,3.73,DemMed,16419.70259
+Zeus faber,John dory,79,4.5,DemLg,4310.814655
+Hippoglossus hippoglossus,Atlantic halibut,197,4.53,DemLg,9272.24569
+Melanogrammus aeglefinus,Haddock,82,4.09,DemLg,421855.4784
+Microstomus kitt,Lemon sole,53,3.22,DemMed,10150.84483
+Molva dypterygia,Blue ling,127,4.48,DemLg,12236.17672
+Lutjanus argentimaculatus,Mangrove red snapper,98,3.58,DemLg,6271.935345
+Lutjanus argentiventris,Yellow snapper,54,4.07,DemMed,2529.741379
+Lutjanus campechanus,Northern red snapper,82,4.01,DemLg,5663.431034
+Chirocentrus nudus,Whitefin wolf-herring,100,4.19,Pelagic,983.6551724
+Dussumieria acuta,Rainbow sardine,20,3.4,Pelagic,27307.95259
+Dussumieria elopsoides,Slender rainbow sardine,20,3.4,Pelagic,291.4655172
+Etrumeus teres,Round herring,25,3.49,Pelagic,51723.08621
+Etrumeus whiteheadi,Whiteheads round herring,20,3.4,Pelagic,29627.13793
+Spratelloides gracilis,Silverstriped round herring,10,3.04,Pelagic,4621.034483
+Sprattus fuegensis,Falkland sprat,18,3.4,Pelagic,1716.262931
+Clupeonella cultriventris,Black Sea sprat,14,3.4,Pelagic,47292.29741
+Sardinops sagax,South American pilchard,30,2.43,Pelagic,3202303.871
+Opisthonema libertate,Pacific thread herring,26,2.89,Pelagic,42172.90517
+Opisthonema oglinum,Atlantic thread herring,31,3.23,Pelagic,8350.517241
+Amblygaster sirm,Spotted sardinella,27,3.3,Reef-associated,487.637931
+Sardinella 'brasiliensis',Brazilian sardinella,25,2.91,Pelagic,79292.43534
+Sardinella gibbosa,Goldstripe sardinella,17,2.85,Pelagic,85125.56897
+Sardinella lemuru,Bali sardinella,23,2.48,Pelagic,58719.09052
+Sardinella longiceps,Indian oil sardine,23,2.51,Pelagic,235663.9224
+Sardinella zunasi,Japanese sardinella,13,2.65,Pelagic,3893.103448
+Clupea pallasii,Pacific herring,31,3.15,Pelagic,405950.944
+Strangomera bentincki,Araucanian herring,15,2,Pelagic,157016.3793
+Alosa pseudoharengus,Alewife,38,3.51,Pelagic,20351.71121
+Alosa sapidissima,American shad,62,3.19,Pelagic,2493.943966
+Brevoortia aurea,Brazilian menhaden,26,2.75,Pelagic,3014.991379
+Brevoortia patronus,Gulf menhaden,25,2.19,Pelagic,534409.5172
+Brevoortia pectinata,Argentine menhaden,30,2.68,Pelagic,179.9655172
+Brevoortia tyrannus,Atlantic menhaden,41,2.25,Pelagic,337619.3621
+Ethmidium maculatum,Pacific menhaden,26,2.07,Pelagic,13722.13793
+Ethmalosa fimbriata,Bonga shad,35,2.5,Pelagic,97594.46552
+Hilsa kelee,Kelee shad,29,3.21,Pelagic,22537.31034
+Tenualosa ilisha,Hilsa shad,60,2.04,Pelagic,60210.49569
+Tenualosa toli,Toli shad,50,2.48,Pelagic,1991.646552
+Dorosoma cepedianum,American gizzard shad,43,2,Pelagic,58.01724138
+Clupanodon thrissa,Chinese gizzard shad,26,3.01,Pelagic,6285.37931
+Konosirus punctatus,Konoshiro gizzard shad,26,3.4,Pelagic,3359.413793
+Anodontostoma chacunda,Chacunda gizzard shad,18,3,Pelagic,2624.413793
+Ilisha africana,West African ilisha,20,3.19,Pelagic,5268.948276
+Ilisha elongata,Elongate ilisha,40,3.79,Pelagic,25140
+Pellona ditchela,Indian pellona,16,3.37,Pelagic,4993.396552
+Engraulis anchoita,Argentine anchoita,17,2.48,Pelagic,18646.94828
+Engraulis capensis,Cape anchovy,19,2.96,Pelagic,250217.625
+Engraulis japonicus,Japanese anchovy,16,2.51,Pelagic,673622.569
+Engraulis mordax,Californian anchovy,19,2.96,Pelagic,76417.34052
+Atherina boyeri,Big-scale sand smelt,20,3.12,DemSm,1040.530172
+Sciaena umbra,Brown meagre,57,3.99,DemMed,79.55603448
+Mora moro,Common mora,80,3.75,Pelagic,289.2758621
+Phycis phycis,Forkbeard,49,4.11,DemMed,78
+Diplodus sargus,White seabream,37,2.98,DemMed,326.0862069
+Diplodus vulgaris,Common two-banded seabream,37,3.24,DemMed,71.22413793
+Pagrus pagrus,Common seabream,75,3.65,DemLg,6259.00431
+Macruronus novaezelandiae,Blue grenadier,98,4.47,DemLg,93234.97414
+Merluccius capensis,Shallow-water Cape hake,115,4.45,DemLg,465.6293103
+Lethrinus mahsena,Sky emperor,56,3.43,DemMed,58.56896552
+Lethrinus borbonicus,Snubnose emperor,32.8,3.47,DemMed,101.0689655
+Lethrinus nebulosus,Spangled emperor,86,3.31,DemMed,331.5344828
+Lethrinus lentjan,Pink ear emperor,40.8,4.21,DemMed,350.2241379
+Alectis alexandrinus,African threadfish,70,3.6,Pelagic,121.5517241
+Atule mate,Yellowtail scad,25,4.45,Pelagic,129.4482759
+Caranx ignobilis,Giant trevally,170,4.22,DemLg,1341.706897
+Caranx rhonchus,False scad,49,3.6,DemMed,4335.155172
+Carangoides bajad,Orangespotted trevally,45.1,4.5,DemMed,79.56896552
+Caranx crysos,Blue runner,57,4.4,Pelagic,1090.24569
+Chloroscombrus orqueta,Pacific bumper,30,3.08,DemMed,1091.741379
+Decapterus macrosoma,Shortfin scad,35,3.4,Reef-associated,248.4137931
+Decapterus maruadsi,Japanese scad,23,3.4,Pelagic,54241.75862
+Parastromateus niger,Black pomfret,62,3.64,DemMed,26158.26293
+Scomberoides commersonnianus,Talang queenfish,120,3.94,DemLg,1213.931034
+Seriolina nigrofasciata,Blackbanded trevally,156,4.17,DemMed,1484.655172
+Pseudophycis bachus,Red codling,74,4.5,DemLg,5196.034483
+Dipturus batis,Blue skate,205,3.96,DemLg,234.0732759
+Raja clavata,Thornback ray,83,3.6,DemLg,1006.37931
+Anarhichas lupus,Wolf-fish,123,3.24,DemLg,28687.75431
+Epigonus telescopus,Bulls-eye,60,3.32,DemMed,929.8836207
+Alopias vulpinus,Thintail thresher,365,4.21,Pelagic,87.58189655
+Mustelus canis,Dusky smooth-hound,123,3.67,Pelagic,56.33189655
+Argentina silus,Greater argentine,70,3.31,DemMed,448.9655172
+Zenopsis nebulosus,Mirror dory,70,3.98,DemMed,184.1982759
+Stereolepis gigas,Giant sea-bass,250,4.5,DemLg,61.77155172
+Mycteroperca xenarcha,Broomtail grouper,123,4.35,DemLg,78.75862069
+Caulolatilus princeps,Ocean whitefish,102,3.7,DemLg,232.7931034
+Atractoscion nobilis,White weakfish,125,3.21,DemLg,402
+Pseudopentaceros richardsoni,Pelagic armorhead,56,3.5,Pelagic,13260.78017
+Anarhichas denticulatus,Northern wolffish,180,3.75,DemLg,452.0517241
+Anarhichas minor,Spotted wolffish,148,3.24,DemLg,1017.728448
+Sebastes goodei,Chilipepper,46,3.58,DemMed,94.87931034
+Sebastes pinniger,Canary rockfish,63,3.8,DemMed,61.68103448
+Sebastolobus alascanus,Shortspine thornyhead,80,3.61,DemMed,55.82758621
+Paralichthys californicus,California flounder,152,4.5,DemLg,70.97413793
+Eopsetta jordani,Petrale sole,70,4.05,DemMed,377.5344828
+Glyptocephalus zachirus,Rex sole,60,3.24,DemMed,346.862069
+Hippoglossoides platessoides,American plaice,67,3.65,DemMed,55561.32759
+Microstomus pacificus,Dover sole,62,3.27,DemMed,1622.87931
+Parophrys vetula,English sole,49,3.45,DemMed,185.3965517
+Pleuronectes quadrituberculatus,Alaska plaice,60,3.1,DemMed,933.4698276
+Normanichthys crockeri,Normans camote,11,2.7,DemSm,10015.60776
+Leucoraja naevus,Cuckoo ray,57,3.94,DemMed,1701.741379
+Raja montagui,Spotted ray,66,3.57,DemMed,462.5517241
+Terapon jarbua,Jarbua terapon,36,3.9,Demersal,188.3103448
+Gnathanodon speciosus,Golden trevally,102,3.81,DemLg,504.0517241
+Acanthopagrus bifasciatus,Twobar seabream,50,3.39,DemMed,512.8448276
+Umbrina canariensis,Canary drum,52,3.37,DemMed,509
+Nemipterus japonicus,Japanese threadfin bream,32,3.82,DemMed,1023.103448
+Miichthys miiuy,Mi-iuy croaker,85,3.5,DemMed,2579.224138
+Lateolabrax japonicus,Japanese seaperch,90,3.78,DemLg,8575.258621
+Dentex congoensis,Congo dentex,41,3.71,DemMed,121
+Galeorhinus galeus,Tope shark,135,4.21,Pelagic,2866.900862
+Pomadasys jubelini,Sompat grunt,49,3.33,DemMed,1219.836207
+Callorhinchus milii,Ghost shark,125,3.1,DemLg,980.1206897
+Mugil soiuy,So-iuy mullet,60,2.49,DemMed,900.4310345
+Otolithes ruber,Tiger-toothed croaker,74,3.6,DemLg,1403.172414
+Plectropomus leopardus,Leopard coralgrouper,120,4.49,Reef-associated,678.9655172
+Spicara maena,Blotched picarel,25,3.23,DemSm,155.0344828
+Epinephelus merra,Honeycomb grouper,31,3.79,Reef-associated,184.5344828
+Elops lacerta,West African ladyfish,89,4.08,DemLg,552.2068966
+Polydactylus quadrifilis,Giant African threadfin,164,4.01,DemLg,3707.241379
+Pomadasys incisus,Bastard grunt,41,3.8,DemMed,513.1336207
+Pseudotolithus senegallus,Law croaker,189,3.89,DemLg,278.3965517
+Trachurus capensis,Cape horse mackerel,56,3.47,Pelagic,324985.6595
+Chelidonichthys capensis,Cape gurnard,62,4.21,DemMed,546.4224138
+Valamugil seheli,Bluespot mullet,60,2.32,DemMed,648.6206897
+Mustelus lenticulatus,Spotted estuary smooth-hound,125,3.51,Pelagic,1473.241379
+Mustelus schmitti,Narrownose smooth-hound,59,3.59,Pelagic,6054.293103
+Gerres oyena,Common silver-biddy,25,3.07,DemMed,62.53448276
+Pomadasys kaakan,Javelin grunter,80,3.19,DemMed,716.5862069
+Acanthopagrus latus,Yellowfin seabream,50,3.15,DemMed,134.3793103
+Chirocentrus dorab,Dorab wolf-herring,100,4.5,DemLg,6306.922414
+Chrysophrys auratus,Squirefish,130,3.32,DemLg,32390.23276
+Cephalopholis boenak,Chocolate hind,30,4.2,Reef-associated,19293.94828
+Cromileptes altivelis,Humpback grouper,70,4.5,Reef-associated,372.4482759
+Epinephelus coioides,Orange-spotted grouper,122,3.9,DemLg,563.9827586
+Epinephelus marginatus,Dusky grouper,90,3.85,DemLg,2685.021552
+Saurida tumbil,Greater lizardfish,56,4.4,DemMed,32875.56034
+Acanthopagrus schlegeli,Black porgy,50,3.24,DemMed,166.3965517
+Electrona carlsbergi,Carlberg's lanternfish,11,3.24,Pelagic,2654.758621
+Dissostichus mawsoni,Antarctic toothfish,144,4.45,DemLg,359.5646552
+Gobionotothen gibberifrons,Humped rockcod,45,3.15,DemMed,1904.107759
+Lepidonotothen squamifrons,Grey rockcod,45,3.09,DemMed,4489.37069
+Patagonotothen brevicauda,Patagonian rockcod,19,3.86,DemSm,2971.625
+Epinephelus multinotatus,White-blotched grouper,83.4,3.86,DemLg,71.31034483
+Leucoraja circularis,Sandy ray,120,3.5,DemLg,118.4137931
+Dipturus oxyrinchus,Longnosed skate,123,3.5,DemLg,80.44827586
+Micropogonias furnieri,Whitemouth croaker,49,2.63,DemMed,61027.75862
+Plectorhinchus gaterinus,Blackspotted rubberlips,42.7,3.99,DemMed,53.98275862
+Rhabdosargus haffara,Haffara seabream,28.4,3.5,DemMed,148.1034483
+Odontesthes regia,Silverside,29,4,Pelagic,1114.87931
+Girella tricuspidata,Luderick,71,2,DemMed,113.7413793
+Seriolella porosa,Choicy ruff,75,3.41,DemMed,930.1551724
+Bregmaceros mcclellandi,Spotted codlet,10,3.27,Pelagic,3160.810345
+Lepidorhynchus denticulatus,Thorntooth grenadier,55,4.1,Pelagic,850.4655172
+Rexea solandri,Silver gemfish,110,4.25,DemLg,2483.306034
+Pseudopleuronectes herzensteini,Littlemouth flounder,50,3.15,DemMed,16190.13793
+Raja asterias,Starry ray,70,3.5,Demersal,292.3965517
+Gerres nigri,Guinean striped mojarra,20,3.19,DemSm,196.0517241
+Nemadactylus macropterus,Tarakihi,57,3.41,DemMed,5927.086207
+Benthosema pterotum,Skinnycheek lanternfish,7,3.14,Pelagic,220.7241379
+Lophius vomerinus,Cape monk,82,4.46,DemMed,8849.181034
+Takifugu vermicularis,Pear puffer,30,3.07,DemMed,3643.344828
+Cheilopogon agoo,Japanese flyingfish,35,3.4,Pelagic,9748.017241
+Patagonotothen ramsayi,Ramsay's icefish,36,3.57,DemMed,1715.413793
+Prolatilus jugularis,Tilefish,32.8,3.7,DemMed,157.4698276
+Seriolella brama,Common warehou,61,3.3,DemMed,1048.637931
+Seriolella caerulea,White warehou,53,3.42,Pelagic,625.0344828
+Kathetostoma giganteum,Giant stargazer,74,3.84,DemLg,1366.551724
+Seriolella punctata,Silver warehou,53,3.4,DemMed,3482.051724
+Meuschenia scaber,Velvet leatherjacket,31,2.95,DemMed,318.6034483
+Hydrolagus novaezealandiae,Dark ghost shark,87,3.52,DemMed,511.8275862
+Pennahia anea,Greyfin croaker,37,3.99,DemMed,300.6896552
+Pomadasys leuciscus,White grunt,41,3.22,Demersal,87.96551724
+Centroberyx affinis,Redfish,51,3.81,DemMed,315.9310345
+Thunnus orientalis,Pacific bluefin tuna,300,4.21,Pelagic,14542.92241
+Rhynchobatus australiae,White-spotted shovelnose ray,300,3.54,Demersal,1110.465517
+Lepidopsetta bilineata,Rock sole,43,3.21,DemMed,14005.81034
+Liza klunzingeri,Klunzingers mullet,20,2.48,DemSm,842.3793103
+Pseudopercis semifasciata,Pigletfish,100,3.88,DemLg,2037.646552
+Chelon haematocheilus,So-iny (redlip) mullet,75,2.5,DemMed,10960.58621
+Pandalus montagui,Aesop shrimp,16,2.3,Invert,78.53448276
+Acetes japonicus,Akiami paste shrimp,3,2.7,Invert,221167.931
+Crassostrea virginica,American cupped oyster,9,2,Invert,187087.4138
+Homarus americanus,American lobster,64,3.7,Invert,50153.50431
+Placopecten magellanicus,American sea scallop,20,2,Invert,146343.7414
+Euphausia superba,Antarctic krill,6,2.2,Invert,118417.3836
+Pleoticus muelleri,Argentine red shrimp,19,2.2,Invert,10488.85345
+Illex argentinus,Argentine shortfin squid,33,3.8,Invert,246343.9138
+Artemesia longinaris,Argentine stiletto shrimp,13,2.7,Invert,303.1896552
+Argopecten irradians,Atlantic bay scallop,9,2,Invert,4329.806034
+Cancer irroratus,Atlantic rock crab,12,2.6,Invert,2709.543103
+Xiphopenaeus kroyeri,Atlantic seabob,13,2.7,Invert,16133
+Spisula solidissima,Atlantic surf clam,17,2,Invert,126107.8448
+Mytilus planulatus,Australian mussel,6,2,Invert,517.9741379
+Panulirus cygnus,Australian spiny lobster,40,2.6,Invert,9620.034483
+Penaeus merguiensis,Banana prawn,24,3,Invert,43889.55172
+Pollicipes pollicipes,Barnacle,3,3,Invert,89.60344828
+Menippe mercenaria,Black stone crab,11,2.6,Invert,1775.163793
+Haliotis rubra,Blacklip abalone,16,2,Invert,4219.543103
+Anadara granosa,Blood cockle,6,2,Invert,27053.65086
+Aristeus antennatus,Blue and red shrimp,22,3.29,Invert,1353.616379
+Callinectes sapidus,Blue crab,15,4,Invert,79535.40948
+Mytilus edulis,Blue mussel,9,2,Invert,73357.14224
+Penaeus stylirostris,Blue shrimp,23,2.7,Invert,243.2586207
+Portunus pelagicus,Blue swimming crab,20,3,Invert,59274.59052
+Illex coindetii,Broadtail shortfin squid,37,4.15,Invert,3275.017241
+Perna viridis,Brown mussel,10,2,Invert,34577.55172
+Saxidomus giganteus,Butter clam,10,2,Invert,1794.275862
+Argopecten gibbus,Calico scallop,8,2,Invert,24089.06466
+Loligo vulgaris,Cape Hope squid,40,4.1,Invert,2873.788793
+Jasus lalandii,Cape rock lobster,46,2.6,Invert,9706.086207
+Penaeus kerathurus,Caramote prawn,20,2.7,Invert,2789.99569
+Panulirus argus,Caribbean spiny lobster,45,3.2,Invert,25500.53017
+Ostrea chilensis,Chilean flat oyster,10,2,Invert,181.137931
+Mytilus chilensis,Chilean mussel,18,2,Invert,6256.456897
+Heterocarpus reedi,Chilean nylon shrimp,15,2.3,Invert,5447.965517
+Loxechinus albus,Chilean sea urchin,8,2.3,Invert,18287.56897
+Aulacomya ater,Cholga mussel,15,2,Invert,17644.18103
+Choromytilus chorus,Choro mussel,5,2,Invert,239.4482759
+Sepia officinalis,Common cuttlefish,45,3.55,Invert,10607.19828
+Cardium edule,Common edible cockle,10,2.1,Invert,40681.18534
+Octopus vulgaris,Common octopus,25,3.55,Invert,46849.48276
+Littorina littorea,Common periwinkle,2,2,Invert,2052.456897
+Palaemon serratus,Common prawn,11,2.7,Invert,567.8448276
+Crangon crangon,Common shrimp,9,3.19,Invert,39457.32759
+Palinurus elephas,Common spiny lobster,50,2.6,Invert,670.5258621
+Penaeus brevirostris,Crystal shrimp,16,2.7,Invert,2894.581897
+Callinectes danae,Dana's swimming crab,16,3.7,Invert,2560.827586
+Parapenaeus longirostris,Deepwater rose shrimp,17,3.31,Invert,19349.1681
+Cancer magister,Dungeness crab,21,2.6,Invert,19830.5
+Cancer pagurus,Edible crab,20,2.6,Invert,25375.37931
+Metapenaeus endeavouri,Endeavour shrimp,16,2.7,Invert,807.5
+Echinus esculentus,European edible sea urchin,8,2.3,Invert,110.0560345
+Ostrea edulis,European flat oyster,25,2,Invert,3026.538793
+Todarodes sagittatus,European flying squid,75,4.01,Invert,2694.543103
+Homarus gammarus,European lobster,60,2.6,Invert,2662.99569
+Concholepas concholepas,False abalone,15,2,Invert,6907.37931
+Penaeus chinensis,Fleshy prawn,17,2.7,Invert,29722.01724
+Portunus trituberculatus,Gazami crab,10,2.6,Invert,96363.48276
+Haliotis gigantea,Giant abalone,30,2,Invert,4002.206897
+Penaeus monodon,Giant tiger prawn,34,2.6,Invert,73967.0431
+Pecten maximus,Great Atlantic scallop,15,2,Invert,19929.26293
+Pecten jacobaeus,Great Mediterranean scallop,25,2,Invert,102.7974138
+Carcinus maenas,Green crab,9,3.5,Invert,861.1034483
+Jasus verreauxi,Green rock lobster,60,2.6,Invert,117.6853448
+Penaeus semisulcatus,Green tiger prawn,20,2.7,Invert,3480.362069
+Ruditapes decussatus,Grooved carpet shell,6,2,Invert,2996.49569
+Microcosmus sulcatus,Grooved sea squirt,3,3,Invert,237.3103448
+Parapenaeopsis atlantica,Guinea shrimp,17,2.7,Invert,52.10344828
+Scapharca subcrenata,Half-crenated ark,7,2,Invert,17613.46552
+Mactra sachalinensis,Hen clam,5,2.1,Invert,11139.36207
+Turbo cornutus,Horned turban,7,2,Invert,12337.01724
+Limulus polyphemus,Horseshoe crab,25,2.98,Invert,484.3275862
+Chlamys islandica,Iceland scallop,9,2,Invert,7093.258621
+Penaeus indicus,Indian white prawn,21,2.7,Invert,174.4482759
+Scylla serrata,Indo-Pacific swamp crab,20,3.1,Invert,8644.616379
+Haliporoides sibogae,Jack-knife shrimp,18,2.2,Invert,123.4827586
+Ruditapes philippinarum,Japanese carpet shell,7,2,Invert,101433.569
+Todarodes pacificus,Japanese flying squid,50,4.28,Invert,428287.8147
+Meretrix lusoria,Japanese hard clam,5,2,Invert,8350.814655
+Apostichopus japonicus,Japanese sea cucumber,15,2.3,Invert,9790.310345
+Cancer borealis,Jonah crab,14,2.6,Invert,564.9827586
+Dosidicus gigas,Jumbo flying squid,150,4.14,Invert,93698.5431
+Haliporoides triarthrus,Knife shrimp,15,2.2,Invert,884.3965517
+Solenocera agassizii,Kolibri shrimp,15,2.2,Invert,91.13793103
+Mytilus coruscus,Korean mussel,10,2,Invert,3912.327586
+Penaeus japonicus,Kuruma prawn,21,2.7,Invert,5577.193966
+Loligo pealeii,Longfin squid,50,3.51,Invert,12439.76724
+Panulirus longipes,Longlegged spiny lobster,30,2.6,Invert,1428.116379
+Mesodesma donacium,Macha clam,7,2,Invert,4382.482759
+Crassostrea rhizophorae,Mangrove cupped oyster,10,2,Invert,2280.982759
+Mytilus galloprovincialis,Mediterranean mussel,11,2,Invert,22450.78879
+Carcinus aestuarii,Mediterranean shore crab,9,3.43,Invert,232.7974138
+Metanephrops mozambicus,Mozambique lobster,20,2.6,Invert,134.4612069
+Ostrea lutaria,New Zealand dredge oyster,8,2,Invert,6071.724138
+Metanephrops challengeri,New Zealand lobster,25,2.6,Invert,275.5
+Pecten novaezelandiae,New Zealand scallop,14,2,Invert,3313.724138
+Penaeus aztecus,Northern brown shrimp,22,2.8,Invert,59032.72414
+Penaeus duorarum,Northern pink shrimp,27,3,Invert,12525.87069
+Pandalus borealis,Northern prawn,14,2.46,Invert,148919.8879
+Mercenaria mercenaria,Northern quahog,14,2,Invert,34879.05172
+Illex illecebrosus,Northern shortfin squid,31,3.98,Invert,21583.95259
+Penaeus setiferus,Northern white shrimp,19,2.7,Invert,36396.28017
+Nephrops norvegicus,Norway lobster,24,2.88,Invert,42699.85345
+Arctica islandica,Ocean quahog,11,2,Invert,83916.34914
+Argopecten circularis,Pacific calico scallop,10,2,Invert,3687.051724
+Crassostrea gigas,Pacific cupped oyster,25,2,Invert,15331.77155
+Panopea abrupta,Pacific geoduck,23,2,Invert,2091.366379
+Siliqua patula,Pacific razor clam,14,2,Invert,217.8103448
+Cancer productus,Pacific rock crab,13,3.3,Invert,172.6724138
+Xiphopenaeus riveti,Pacific seabob,17,2.7,Invert,1568.637931
+Loligo gahi,Patagonian squid,28,3.2,Invert,21088.11207
+Haliotis midae,Perlemoen abalone,25,2,Invert,916.3103448
+Argopecten purpuratus,Peruvian calico scallop,12,2,Invert,6038.150862
+Tapes pullastra,Pullet carpet shell,7,2.1,Invert,1849.357759
+Chionoecetes opilio,Queen crab,20,2.3,Invert,33238.68534
+Chlamys opercularis,Queen scallop,11,2.1,Invert,8875.857759
+Geryon quinquedens,Red crab,17,2.6,Invert,1610.780172
+Jasus edwardsii,Red rock lobster,51,2.6,Invert,4290.965517
+Pyura chilensis,Red sea squirt,4,3,Invert,2311.87931
+Penaeus brasiliensis,Redspotted shrimp,17,2.7,Invert,3839.431034
+Penaeus penicillatus,Redtail prawn,19,2.7,Invert,2021.068966
+Mytilus platensis,River Plata mussel,9,2,Invert,2841.418103
+Sicyonia brevirostris,Rock shrimp,15,2.2,Invert,1511.900862
+Pleoticus robustus,Royal red shrimp,20,2.2,Invert,133.5689655
+Mya arenaria,Sand gaper,9,2,Invert,16815.18966
+Panulirus homarus,Scalloped spiny lobster,31,2.6,Invert,577
+Plesiopenaeus edwardsianus,Scarlet shrimp,26,2.3,Invert,437.0215517
+Martialia hyadesi,Sevenstar flying squid,40,3.2,Invert,1080.668103
+Metapenaeus joyneri,Shiba shrimp,12,2.7,Invert,1589.37931
+Crassostrea iredalei,Slipper cupped oyster,9,2,Invert,493.8965517
+Paralomis granulosa,Softshell red crab,14,2.3,Invert,1097.456897
+Perna perna,South American rock mussel,18,2,Invert,514.1336207
+Lithodes antarcticus,Southern king crab,14,2.5,Invert,1596.508621
+Penaeus notialis,Southern pink shrimp,18,2.7,Invert,8752.905172
+Trachypenaeus curvirostris,Southern rough shrimp,9,2.7,Invert,81259.7931
+Palinurus gichristi,Southern spiny lobster,24,2.6,Invert,495.9137931
+Metapenaeus monoceros,Speckled shrimp,17,2.7,Invert,304.0689655
+Maja squinado,Spinous spider crab,13,2.3,Invert,4134.452586
+Squilla mantis,Spottail mantis squillid,15,2.6,Invert,4022.193966
+Spisula polynyma,Stimpsons surf clam,14,2,Invert,7307.172414
+Paracentrotus lividus,Stony sea urchin,8,2.3,Invert,190.0301724
+Aristeus varidens,Striped red shrimp,19,3.65,Invert,732.4482759
+Venus (=Chamelea) gallina,Striped venus,7,2.1,Invert,30367.81466
+Protothaca thaca,Taca clam,6,2,Invert,14847.63793
+Necora puber,Velvet swimcrab,9,2.6,Invert,75.25862069
+Patinopecten caurinus,Weathervane scallop,8,2,Invert,2164.987069
+Nototodarus sloanii,Wellington flying squid,42,3.2,Invert,27321.21121
+Penaeus latisulcatus,Western king prawn,16,2.7,Invert,1460.586207
+Penaeus occidentalis,Western white shrimp,22,2.7,Invert,796.6206897
+Buccinum undatum,Whelk,7,3.1,Invert,9474.487069
+Penaeus vannamei,Whiteleg shrimp,23,2.7,Invert,5346.224138
+Penaeus californiensis,Yellowleg shrimp,18,2.7,Invert,774.7456897
+Pecten yessoensis,Yesso scallop,9,2.1,Invert,117616.7457
+Ommastrephes bartramii,Neon flying squid,50,4.2,Invert,6503.155172
+Cervimunida johni,Carrot Squat Lobster,8,2.6,Invert,5004.189655
+Erimacrus isenbeckii,Hair Crab,15,2.6,Invert,52.12068966
+Haliporoides diomedeae,Chilean nylon shrimp,15,2.6,Invert,52.81465517
+Ibacus ciliatus,Sand Crayfish,15,2.6,Invert,327.6206897
+Lithodes aequispina,Same-spine stone crab,20,2.82,Invert,542.9655172
+Megabalanus psittacus,Giant barnacle,12,3,Invert,434.8103448
+Pandalus goniurus,Humpy shrimp,10,2.6,Invert,69.27586207
+Pandalus hypsinotus,Humpback shrimp,12,2.6,Invert,56.34482759
+Panulirus gracilis,Blue spiny lobster,30,2.6,Invert,233.0258621
+Paralithodes brevipes,Spiny king crab,20,2.82,Invert,57.18965517
+Paralithodes camtschaticus,Red king crab,40,2.82,Invert,29853.37931
+Paralithodes platypus,Blue King Crab,18,2.82,Invert,1080.362069
+Pleuroncodes planipes,Pelagic red crab,5,2.85,Invert,2081.87931
+Sciaena gilberti,Corvina,60,3.67,DemMed,8708.534483
+Tivela mactroides,Trigonal tivela,3,2,Invert,183.6724138
+Loligo opalescens,California market squid,19,3.88,Invert,11621.24569
+Sepioteuthis lessoniana,Bigfin reef squid,36,4.5,Invert,1714.12069
+Spisula solida,Surf clam,4,2,Invert,522.4655172
+Zidona dufresnei,Angulate volute,3,2,Invert,296.3491379
+Semele solida,Chilean semele,7,2,Invert,662.8793103
+Glycymeris glycymeris,Dog cockle,7,2,Invert,1308.844828
+Thenus orientalis,Flathead lobster,26,2.5,Invert,1227.655172
+Tawera gayi,Gay's little venus,3,2,Invert,373.0862069
+Zygochlamys patagonica,Patagonean scallop,10,2,Invert,10431.34052
+Paphies australis,Pipi wedge clam,12,2,Invert,485.2715517
+Callista chione,Smooth callista,8,2,Invert,141.4482759
+Jasus paulensis,St.Paul rock lobster,37,2.6,Invert,426.4137931
+Chione stutchburyi,Stutchbury's venus,5,2,Invert,308.2931034
+Nematopalaemon schmitti,Whitebelly prawn,10,2.2,Invert,247.2913793
+Jasus novaehollandiae,Southern rock lobster,45,3.5,Invert,3874.603448
+Trochus niloticus,Commercial top,15,2,Invert,102.8965517
+Berryteuthis magister,Schoolmaster gonate squid,25,4.05,Invert,901.1206897
