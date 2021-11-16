@@ -1,0 +1,90 @@
+---
+title: "Loops and Conditions In-class Exercise"
+author: "Kristin Privitera-Johnson"
+date: "10/27/2021"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Instructions
+Please complete this exercise in this .Rmd document, as a group.
+
+## The `sin.period()` function
+
+``` {r sinperiod}
+
+sin.period <- function(period) {
+  xvals <- seq(from=0, to=2*pi, length=100)
+  yvals <- sin(xvals/period)
+  plot(x=xvals,
+       y=yvals,
+       type="l",
+       lty=1,
+       xaxs="i",
+       lwd=2)
+}
+
+sin.period(period=1)
+
+```
+
+# Question 1
+Take a screenshot of the code above and use the image editor program of your choice (e.g., MS Paint, PPT, Word, etc.) to label the following components of the function:
+
+- name of function
+- arguments of function
+- start of the function
+- R commands which can include calls to other functions
+- calling the function
+- passing values to the function arguments
+
+Use Rmarkdown to insert your annotated image into this document.
+
+![annotated function pic]("C:/Users/kll86/OneDrive/UW/Classes/Year 1/Quarter Fall/SAFS R Classes/SAFS-R-classes/image.png")
+
+# Question 2
+Please describe what this `sin.period()` function does.
+- Sin.period plots a sine graph. It sets hard-coded x-axis values, and the y values are adjusted based on the argument 'period' fed into the function by dividing the x-values by 'period'. Plot is used to produce the graph based off these x and y values.
+
+## Modifying `sin.period()`
+# Question 3
+Modify the `sin.period()` function above to:
+
+- have an argument `p` that is a vector of periods 
+- plots for each element of `p` the function sin(x/p) where p is the period and x ranges from 0 to 2*pi
+
+``` {r modify}
+
+sin.period_kl <- function(p) {
+  xvals <- seq(from=0, to=2*pi, length=100)
+  for(i in 1:length(p)){
+  yvals <- sin(xvals/p[i])
+  tmp <- plot(x=xvals,
+       y=yvals,
+       type="l",
+       lty=1,
+       xaxs="i",
+       lwd=2)
+  }
+}
+
+rezz <- sin.period_kl(p=1:5)
+
+```
+
+**If you finish early, try to make the function as general as possible.**
+
+## Creating a multi-plot
+# Question 4
+Use the call `par(mfrow=c(3,3))` to create 9 subplots and run your function for `p <- c(0.05, 0.1, 0.25, 0.5, 1, 1.5, 2, 2.5, 5)`
+
+``` {r multiplot}
+p <- c(0.05, 0.1, 0.25, 0.5, 1, 1.5, 2, 2.5, 5)
+par(mfrow=c(3,3))
+sin.period_kl(p=p)
+```
+
+

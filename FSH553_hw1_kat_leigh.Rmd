@@ -1,0 +1,92 @@
+---
+title: "LastName Homework 1"
+author: "Kat Leigh"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Question 1:
+## Detective work to decipher an unintelligible function
+
+### Rewrite the R code so that its purpose can be easily understood. Include:
+  •comments,
+  •meaningful variable names,
+  •indenting, line spacing, etc.
+
+```{r}
+# function to add an inset tag to a plot.
+## 'xtrm_coords' defines the max/min x and y values of the plot.
+## 'inst_lab' is the text label you want to appear for the inset.
+## 'injst' is a vector of the adjustment for the label inside the plot. The first item shifts the label to the right from the y axis, while the second item shifts the label up from the x axis.
+## the function scales the adjustment specified in injst to the plot, creating the two variables 'x_loc' and 'y_loc' which specify the x and y coordinates, respectively, for the inset to appear.
+
+inst_fxn <- function(inst_lab, injst, ...){
+  xtrm_coords <- par("usr")
+  x_loc <- xtrm_coords[1] + injst[1]*diff(xtrm_coords[1:2])
+  y_loc <- xtrm_coords[3] + injst[2]*diff(xtrm_coords[3:4])
+  text(x=x_loc, y=y_loc, l=inst_lab, ...)
+}
+
+# make a plot
+plot(1,1)
+# run the function to insert the inset label
+inst_fxn(inst_lab= "(a)", injst= c(.05,.95))
+```
+# Question 2: Central Limit Theorem
+## 2a. Write the function!
+### Write a function named CL.theorem() that takes four parameters (i.e., arguments): n, mean, sd, breaks.
+### The function will draw n numbers from a random normal distribution with a mean of mean, and a standard deviation of sd. The function will then plot a histogram of the resulting values with the breaks specified by the breaks parameter. The function will also return a list of the following named elements:
+•a vector of the randomly drawn numbers; name this element data
+•n; name this element n_data
+•the mean of the n randomly drawn numbers; name this element mean
+•the standard deviation of the n randomly drawn numbers; name this element sd
+
+### Use the following code to test your function:
+
+```{r}
+CL.theorem <- function(n, mean=5, sd=2, breaks=seq(from=-5,to=15,by=0.5)){
+  distrib <- rnorm(n, mean, sd)
+  histz <- hist(distrib, breaks=breaks,
+                xlab='Bins', ylab='frequency', main= 'Distribution of data')
+  
+  return(list(histz, data= distrib, n_data= n, mean= mean(distrib), sd= sd(distrib)))
+}
+
+q1 <- CL.theorem(n=5, mean=5, sd=2, breaks=seq(from=-5,to=15,by=0.5))
+q1$data
+q1$n_data
+q1$mean
+q1$sd
+
+```
+## 2b. Make multiple plots!
+### Use the pdf() function for this question. Now, open a pdf file for output to store the plots, and call the function 10 times with the same values for mean, sd, breaks, but with different values for n, as follows: n=5, 10, 20, 30, 50, 100, 500, 1000, 5000, 10000. Then close the pdf file. The result should be a single pdf file containing 10 plots.
+
+```{r}
+n_lst <- c(5, 10, 20, 30, 50, 100, 500, 1000, 5000, 10000)
+
+pdf(file='ten_plots')
+
+try_for_loop <- for(i in 1:length(n_lst)){
+  CL.theorem(n_lst[i], mean=5, sd=2, breaks=seq(from=-5,to=15,by=0.5))
+}
+
+dev.off()
+```
+
+## 2c. Remember the apply() family?
+### Solve question 2b using the apply() function (i.e., open a pdf file, use the apply() function, close the pdf file).
+
+```{r}
+pdf(file='ten_plots_sapply')
+
+try_apply <- sapply(X=n_lst, FUN=CL.theorem)
+
+dev.off()
+
+```
+
